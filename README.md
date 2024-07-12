@@ -11,3 +11,6 @@ $ cd desktop-be-clean
 ```bash
 $ bash desktop-be-clean.sh
 ```
+
+#### Options
+- `-s` or `--step`: Manually step through each file and directory to confirm if it should be moved. 
